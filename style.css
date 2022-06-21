@@ -1,0 +1,21 @@
+body{
+	background-image: url(images.jpg);
+	background-repeat: no-repeat;
+	background-size: 1500px;
+}
+
+.col-md-6{
+	border: 7px solid white;
+	margin-top: 150px !important;
+	padding: 20px;
+}
+
+button{
+	margin: 20px !important;
+	border: 2px solid black !important;
+}
+
+h1{
+	font-weight: bolder !important;
+	margin: 20px;
+}
